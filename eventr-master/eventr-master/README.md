@@ -1,2 +1,0 @@
-# eventr
-eventer
